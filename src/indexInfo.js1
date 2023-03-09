@@ -1,0 +1,17 @@
+###
+Ceci est un exercice pour se perfectionner et faire un DEPLOIEMENT
+On utilise l'API `https://www.themealdb.com/api et l'option search by name 
+
+
+###
+NPM RUN BUILD
+Pour éviter de crasher le projet, on se crée un nouveau repository puis cd .. puis GIT CLONE
+Puis on y met TOUS LES FICHIERS du dossier BUILD/mealdb (ctrl + X)
+Puis git add && git commit -m' ' && git push -u origin main
+
+On prend le repository du projet sur GITHUB
+Si on clique sur le repository puis son paramétre, on va aller sur PAGES pour créer ceci https://github.com/Soulman2131/mealdb
+Ensuite, on va sur NETLIFY puisque REACT ne marchera pas sur l'ouvrir le site avec GITHUB
+On le signUp avec GITHUB qui est sur ce site => DEPLOY SITE
+Le site déployé s'appelle https://cute-marzipan-ea79b8.netlify.app
+Et pour changer le com du site, il faut aller et cliquer sur CHANGE SITE NAME
